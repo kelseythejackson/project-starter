@@ -1,0 +1,11 @@
+{
+  "printWidth": 60,
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "pugAttributeSeparator": "as-needed",
+  "pugSortAttributes": "asc",
+  "pugSingleQuote": true,
+  "pugTabWidth": 3
+}
