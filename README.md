@@ -7,3 +7,11 @@
 ## CSS
 
 ## JS
+
+## Node Version
+
+14.9.0
+
+## Npm Version
+
+6.14.8
