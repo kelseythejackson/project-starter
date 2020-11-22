@@ -6,12 +6,16 @@
 
 ## CSS
 
+[The Sass Way](http://thesassway.com/)
+
+[BEM](http://getbem.com/introduction/)
+
+[SMACCS](http://smacss.com/)
+
 ## JS
 
-## Node Version
+## Node & NPM Versions
 
-14.9.0
+Node 14.9.0
 
-## Npm Version
-
-6.14.8
+NPM 6.14.8
